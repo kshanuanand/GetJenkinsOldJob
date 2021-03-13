@@ -1,6 +1,6 @@
-import requests
 import os
 from datetime import datetime
+import requests
 
 JENKINS_URL='http://localhost:8080/'
 
